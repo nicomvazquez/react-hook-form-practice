@@ -1,0 +1,15 @@
+* {
+  color: #fff;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #202030;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
